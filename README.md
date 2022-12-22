@@ -1,5 +1,4 @@
-# AssemblyAI
-#This is my submission for the AssemblyAI Hackathon
+# MedicalAI
 
 Lots of open source files here:
 - To execute the files for the pre-recorded-audio files, run Streamlit filename.py
